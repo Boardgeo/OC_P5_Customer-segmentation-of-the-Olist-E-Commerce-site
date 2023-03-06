@@ -1,7 +1,7 @@
 # OC_P5_Customer-segmentation-of-the-Olist-E-Commerce-site
 
 ## Context
- - Olist is the largest e-commerce platform in Brazilian online marketplaces which connects and offers a solution for buying and selling on online. Olist wants to obtain a segmentation of its customers that their marketing team can use in their daily communication campaigns. The dataset provided by Olist has information of ~100k customers and sellers from 2016 to 2018 made at multiple marketplaces. 
+Olist is the largest e-commerce platform in Brazilian online marketplaces which connects and offers a solution for buying and selling on online. Olist wants to obtain a segmentation of its customers that their marketing team can use in their daily communication campaigns. The dataset provided by Olist has information of ~100k customers and sellers from 2016 to 2018 made at multiple marketplaces. 
  
  
  ## Goal:
