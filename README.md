@@ -12,3 +12,9 @@ Olist is the largest e-commerce platform in Brazilian online marketplaces which 
  - provide an actionable description of segmentation and its underlying logic for optimal use. 
  - provide an analysis of the stability of the segments over time in order to establish a maintenance contract.
  - group together customers with similar profiles that can be used by the marketing team for better communication.
+ 
+ 
+ ## Tools and competencies
+ - Non-supervise model classification
+ - Cluster stability
+ - RFM
